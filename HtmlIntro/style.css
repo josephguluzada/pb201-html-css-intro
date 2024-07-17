@@ -1,0 +1,43 @@
+.header {
+  background-color: rgb(144, 147, 0);
+}
+
+.logo {
+  display: inline;
+  margin-left: 20px;
+  color: aliceblue;
+}
+
+.nav-items {
+  display: inline-block;
+  margin-left: 600px;
+  margin-bottom: 14px;
+}
+
+.nav-items li {
+  display: inline;
+  margin: 0 20px 0 0;
+}
+
+.nav-items li a {
+  text-decoration: none;
+  font-size: 19px;
+  color: white;
+}
+
+.main {
+  padding: 20px 20px 0 20px;
+}
+.main .c-sharp-img {
+  width: 500px;
+}
+
+.main a {
+  text-decoration: none;
+  font-size: 20px;
+  color: brown;
+  border: 1px solid;
+  padding: 7px 15px;
+  background-color: pink;
+  border-radius: 7px;
+}
